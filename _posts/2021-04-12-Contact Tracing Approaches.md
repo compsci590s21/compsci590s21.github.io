@@ -130,3 +130,6 @@ The idea of this approach is that each user’s public keys $pk_i$ are anonymous
 # Conclusion 
 It seems that the war between proponents of centralized and decentralized systems cannot be definitely won by either party. The very nature of either approach makes them more vulnerable to some attacks than others. The decision to choose which one to implement ends up being more of a social problem, deciding which kind or risk is more likely or more acceptable, as opposed to a purely scientific problem. For either approach, we offer some modifications we believe will create generally more secure structures while preserving their nature. 
 
+
+# Reference
+Vaudenay, S. (2020). Centralized or Decentralized? The Contact Tracing Dilemma. IACR Cryptol. ePrint Arch., 2020, 531. 
