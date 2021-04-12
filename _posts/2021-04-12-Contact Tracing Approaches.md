@@ -132,4 +132,4 @@ It seems that the war between proponents of centralized and decentralized system
 
 
 # Reference
-Vaudenay, S. (2020). Centralized or Decentralized? The Contact Tracing Dilemma. IACR Cryptol. ePrint Arch., 2020, 531. 
+[Vaudenay, S. (2020). Centralized or Decentralized? The Contact Tracing Dilemma](https://eprint.iacr.org/2020/531). *IACR Cryptol. ePrint Arch.*, 2020, 531. 
